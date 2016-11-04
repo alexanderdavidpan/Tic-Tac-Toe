@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe built with ReactJS",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderdavidpan/Tic-Tac-Toe.git"
+  },
+  "author": "Alex Pan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderdavidpan/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/alexanderdavidpan/Tic-Tac-Toe#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0"
+  }
+}
